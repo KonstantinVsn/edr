@@ -23,6 +23,7 @@ def read():
 
         print(dat, spend,"\n", Dict,"\nTotal",sum(Dict.values()))
 
+test = 'test'
 
 name = "{'mainPerson':{'contains':'рибак олександр'}}"
 address = "09100+Київська обл.+місто Біла Церква+ВУЛ. ФАСТІВСЬКА+будинок 21-Б"
