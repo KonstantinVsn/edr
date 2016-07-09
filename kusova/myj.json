@@ -1,0 +1,130 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "вулиця Федора Горбунова",
+               "short_name" : "вулиця Федора Горбунова",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Znamianka",
+               "short_name" : "Znamianka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Znam'yans'ka city council",
+               "short_name" : "Znam'yans'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kirovohrads'ka oblast",
+               "short_name" : "Kirovohrads'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "вулиця Федора Горбунова, Znamianka, Kirovohrads'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7198692,
+                  "lng" : 32.6651067
+               },
+               "southwest" : {
+                  "lat" : 48.7150127,
+                  "lng" : 32.6618557
+               }
+            },
+            "location" : {
+               "lat" : 48.7165122,
+               "lng" : 32.6628712
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7198692,
+                  "lng" : 32.6651067
+               },
+               "southwest" : {
+                  "lat" : 48.7150127,
+                  "lng" : 32.6618557
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbXM88LeN0EARd6IU1JK5kpE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "вулиця Радянська",
+               "short_name" : "вулиця Радянська",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Znamianka",
+               "short_name" : "Znamianka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Znam'yans'ka city council",
+               "short_name" : "Znam'yans'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kirovohrads'ka oblast",
+               "short_name" : "Kirovohrads'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27401",
+               "short_name" : "27401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "вулиця Радянська, Znamianka, Kirovohrads'ka oblast, Ukraine, 27401",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.72501339999999,
+                  "lng" : 32.6654656
+               },
+               "southwest" : {
+                  "lat" : 48.7202182,
+                  "lng" : 32.6651864
+               }
+            },
+            "location" : {
+               "lat" : 48.7225931,
+               "lng" : 32.6653302
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.72501339999999,
+                  "lng" : 32.6666749802915
+               },
+               "southwest" : {
+                  "lat" : 48.7202182,
+                  "lng" : 32.6639770197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJVcvMrmN0EARxdEbOwiX2es",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
